@@ -1,0 +1,3 @@
+export const GET_JOKE = 'GET_JOKE';
+export const ADD_FAVORITES = 'ADD_FAVORITES';
+export const DELETE_FAVORITES = 'DELETE_FAVORITES';
